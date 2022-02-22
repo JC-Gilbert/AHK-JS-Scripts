@@ -1,4 +1,4 @@
-/* Spotify isn't very friendly when it comes to allowing artists to be exported... so, I've developed a workaround */
+/* Spotify doesn't currently have a way to export any artists you have saved to your favorites... so, I've developed a workaround */
 
 // Step 1: Log into you spotify account
 // Step 2: Scroll to the bottom of your artists list (this load all artists into the page dom)
